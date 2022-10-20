@@ -1,2 +1,2 @@
-Trang tổng hợp tài chính của Leox
+Trang tổng hợp tài chính bằng HTML của Leox
 Telegram: @LeoDoan
